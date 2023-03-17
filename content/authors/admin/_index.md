@@ -22,8 +22,9 @@ bio: My research interests include MRI.
 
 interests:
 - Artificial Intelligence
-- Medical Image Processing
 - Computer Vision
+- Medical Image Processing
+  
 
 education:
   courses:
