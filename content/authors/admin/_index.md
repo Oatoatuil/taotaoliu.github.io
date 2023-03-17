@@ -15,7 +15,7 @@ role: Studying for a PhD in
 # Organizations/Affiliations
 organizations:
 - name: Tongji University
-  url: https://www.tongji.edu.cn/
+  url: https://en.tongji.edu.cn/p/#/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include MRI.
