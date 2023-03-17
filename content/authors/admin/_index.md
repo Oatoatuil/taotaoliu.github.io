@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Studying for a PhD in
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
