@@ -1,13 +1,15 @@
 ---
-title: "An example journal article"
+title: "Inter-Patient Congestive Heart Failure Detection Using ECG-Convolution-Vision Transformer Network"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Yujuan Si
+- Weiyi Yang
+- Jiaqi Huang
+- Yongheng Yu
+- Gengbo Zhang
+- Rongrong Zhou
+date: "2022-04-25T00:00:00Z"
+doi: "10.3390/s22093283"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,22 +21,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Sensors 2022, 22(9)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: An attack of congestive heart failure (CHF) can cause symptoms such as difficulty breathing, dizziness, or fatigue, which can be life-threatening in severe cases. An electrocardiogram (ECG) is a simple and economical method for diagnosing CHF. Due to the inherent complexity of ECGs and the subtle differences in the ECG waveform, misdiagnosis happens often. At present, the research on automatic CHF detection methods based on machine learning has become a research hotspot. However, the existing research focuses on an intra-patient experimental scheme and lacks the performance evaluation of working under noise, which cannot meet the application requirements. To solve the above issues, we propose a novel method to identify CHF using the ECG-Convolution-Vision Transformer Network (ECVT-Net). The algorithm combines the characteristics of a Convolutional Neural Network (CNN) and a Vision Transformer, which can automatically extract high-dimensional abstract features of ECGs with simple pre-processing. In this study, the model reached an accuracy of 98.88% for the inter-patient scheme. Furthermore, we added different degrees of noise to the original ECGs to verify the model’s noise robustness. The model’s performance in the above experiments proved that it could effectively identify CHF ECGs and can work under certain noise.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- ECG
+- Deep learning
+- CNN
+- Vision Transformer
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/1424-8220/22/9/3283/pdf?version=1650868236
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,11 +71,5 @@ slides: example
 ---
 
 {{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *PDF* or *DOI* button for more information of this article.
 {{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

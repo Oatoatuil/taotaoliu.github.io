@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘淘涛 Taotao Liu
+title: Taotao Liu
 
 # Username (this should match the folder name)
 authors:
@@ -27,15 +27,16 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Electronic Information
     institution: Tongji University
     year: 2022-Now
-  - course: MEng in Artificial Intelligence
+  - course: MEng in Electronics and Communication Engineering
     institution: Jilin University
     year: 2019-2022
-  - course: BEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BEng in Automation
+    institution: Changchun University of Architecture
+    year: 2015-2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,15 +46,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://blog.csdn.net/CarryEKAIruiui?spm=1000.2115.3001.5343
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/uiloatoat
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Taotao Liu comes from Weishan.
+A man comes from Weishan.
