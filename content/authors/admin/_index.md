@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Studying for a PhD of Artificial Intelligence
+role: Studying for a PhD in
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ bio: My research interests include MRI.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrievalssdsd
+- Medical Image Processing
+- Computer Vision
 
 education:
   courses:
