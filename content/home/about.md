@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear in.
 
-title = 'Biography'
+title = 'Welcome' # (Biography) To change the font size see themes\Academic\layouts\partials\widgets\about.html
 
 
 # Choose the user profile to display

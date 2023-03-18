@@ -68,5 +68,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-A man comes from Weishan.
+I am from Weishan, and I am a Ph.D student. 中文版等我空闲的时候会搞的。
