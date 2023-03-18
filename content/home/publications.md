@@ -68,4 +68,4 @@ subtitle = ""
 +++
 
 
-[Filtering publications ]({{< ref "/publication/_index.md" >}})for quickly discover relevant content.
+[Filtering publications ]({{< ref "/publication/_index.md" >}}) for quickly discover relevant content.
