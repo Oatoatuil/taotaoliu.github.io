@@ -68,4 +68,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am from Weishan, and I am a Ph.D student. 中文版等我空闲的时候会搞的。
+A Weishan man who is studying for a Ph.D.
