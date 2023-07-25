@@ -18,7 +18,7 @@ organizations:
   url: https://en.tongji.edu.cn/p/#/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include MRI.
+bio: AI 4 Life.
 
 interests:
 - Artificial Intelligence
